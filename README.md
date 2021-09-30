@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DavisMalahovs
+- 👀 I’m interested in Python, Power BI, Power Query, little bit in SQL
+- 🌱 I’m currently learning Python automation, Python web scraping
